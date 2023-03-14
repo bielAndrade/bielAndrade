@@ -1,7 +1,7 @@
 ### Olá, Me chamo Gabriel Andrade
 
 - Cursando Análise e Desenvolvimento de Sistemas
-- Estudando Java Script
+- Atualmente Estudando Java Script
 
 ##
 
