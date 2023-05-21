@@ -1,7 +1,7 @@
 ### Olá, Me chamo Gabriel Andrade
 
 - Cursando Análise e Desenvolvimento de Sistemas
-- Atualmente Estudando Java Script
+- Atualmente Estudando Node JS
 
 ##
 
@@ -13,6 +13,8 @@
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Biel-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  
   
 </div>
 
