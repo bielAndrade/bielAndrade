@@ -1,7 +1,7 @@
 ### Olá, Me chamo Gabriel Andrade
 
 - Cursando Análise e Desenvolvimento de Sistemas
-- Atualmente Estudando Node JS
+- Atualmente Estudando Python para Análise de Dados
 
 ##
 
